@@ -28,17 +28,18 @@ ref (https://cursos.alura.com.br/forum/topico-sugestao-resolvido-user-is-not-in-
 ## Tooling install
 
 ### - Git Install 
-´´´
+```
 sudo apt install git
-´´´
+```
 
 ### - Vscode Install
-´´´
+
+```
 sudo apt update
 sudo apt install snapd
 sudo snap install code --classic
 
-´´´
+```
 
 https://www.golinuxcloud.com/install-visual-studio-code-ubuntu-22/
 

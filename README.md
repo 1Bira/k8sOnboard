@@ -32,6 +32,13 @@ ref (https://cursos.alura.com.br/forum/topico-sugestao-resolvido-user-is-not-in-
 sudo apt install git
 ```
 
+- ***Add pass***
+    1. Create personal CESS token
+        1. Generate new token
+        1. Copy de token in your clipeboard
+        1. Use in push
+
+
 ### - Vscode Install
 
 ```
